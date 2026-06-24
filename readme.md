@@ -32,17 +32,17 @@ Autenticação:
 
 ## Funcionalidades
 
-✔ Cadastro de usuários
+- Cadastro de usuários
 
-✔ Login com autenticação
+- Login com autenticação
 
-✔ Proteção de rotas utilizando token
+- Proteção de rotas utilizando token
 
-✔ Chatbot para respostas automáticas
+- Chatbot para respostas automáticas
 
-✔ Registro das mensagens no banco de dados
+- Registro das mensagens no banco de dados
 
-✔ Histórico de atendimento
+- Histórico de atendimento
 
 
 ## Como executar o projeto
